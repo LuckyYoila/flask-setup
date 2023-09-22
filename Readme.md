@@ -1,4 +1,4 @@
-#Flask app setup
+# Flask app setup
 
 - create and activate the virtual environment:
     ```bash 
